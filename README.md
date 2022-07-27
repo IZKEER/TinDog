@@ -3,7 +3,7 @@
 ### Screenshot
 ![hithubScreenshot](https://user-images.githubusercontent.com/97193948/172905369-fc21b77c-8009-4ded-98f5-928d6c5541f6.png)
 
-[LIVE WEBSITE](https://pages.github.com/).
+[LIVE WEBSITE](https://izkeer.github.io/TinDog/).
 
 
 ## My process
